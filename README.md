@@ -12,10 +12,10 @@ Adonis docs search workflow for Alfred.
 
 ## Usage
 
-Type `al` followed by a search term to see the result. While selected, hit `⌘+y` for quickly viewing the documentation of the selected search result or hit enter to browse it online.
+Type `ad` followed by a search term to see the result. While selected, hit `⌘+y` for quickly viewing the documentation of the selected search result or hit enter to browse it online.
 
 ```
-al <query>
+ad <query>
 ```
 
 ![Search by Algolia](algolia.png)
